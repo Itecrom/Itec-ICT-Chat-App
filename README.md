@@ -1,4 +1,4 @@
-# ITEC ICT SOLUTIONS Social Chat App
+# ITEC ICT SOLUTIONS ICT Chat App
 
 The ITEC ICT SOLUTIONS Social Chat App is a real-time messaging platform designed for seamless and secure communication between users. Developed by ITEC ICT E-SOLUTIONS, this app enables users to register, log in, and exchange messages instantly using a clean and intuitive user interface. Built with Kotlin for Android and integrated with either Firebase or a custom backend, the app offers a fast and responsive chat experience that is scalable and reliable.
 
@@ -22,7 +22,7 @@ The ITEC ICT SOLUTIONS Social Chat App is a real-time messaging platform designe
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/itecictsolutions/social-chat-app.git
+   git clone https://github.com/itecictsolutions/ict-chat-app.git
    cd social-chat-app
    ```
 
